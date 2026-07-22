@@ -1,4 +1,4 @@
-# Recommendation System
+# Netflix Recommendation
 
 ## 📌 Overview
 Built a machine learning-based recommendation system to suggest personalized content based on user preferences and interaction patterns.
